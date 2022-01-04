@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1575810917 source:e:\program\oop project\school portal\main.cpp
+	"ashu.cpp"
+
+1575352255 e:\program\oop project\school portal\ashu.cpp
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ashugraphics.h>
+	<fstream>
+	"ashustud.cpp"
+	"ashuteach.cpp"
+
+1575310829 e:\program\oop project\school portal\ashustud.cpp
+
+1575306063 e:\program\oop project\school portal\ashuteach.cpp
+
+1576617784 source:e:\program\ashu\my projects\school portal\main.cpp
+	"ashu.cpp"
+
+1575352255 e:\program\ashu\my projects\school portal\ashu.cpp
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ashugraphics.h>
+	<fstream>
+	"ashustud.cpp"
+	"ashuteach.cpp"
+
+1575310829 e:\program\ashu\my projects\school portal\ashustud.cpp
+
+1575306063 e:\program\ashu\my projects\school portal\ashuteach.cpp
+
+1587644388 source:e:\program\ashu\my projects\school portal(2nd year)\main.cpp
+	"ashu.cpp"
+
+1575352255 e:\program\ashu\my projects\school portal(2nd year)\ashu.cpp
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	<ashugraphics.h>
+	<fstream>
+	"ashustud.cpp"
+	"ashuteach.cpp"
+
+1575310829 e:\program\ashu\my projects\school portal(2nd year)\ashustud.cpp
+
+1575306063 e:\program\ashu\my projects\school portal(2nd year)\ashuteach.cpp
+
